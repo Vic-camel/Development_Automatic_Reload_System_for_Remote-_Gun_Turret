@@ -12,10 +12,15 @@
 ## 引入IP Cam 影像至人機介面
 詳見<a href="https://youtu.be/GvE47qOUVBo">教學</a>
 <div style="background-color:green;">
+ 
 注意
+ 
 1. visual_studio 安裝 visioforge 套件
+
 2. 注意套件版本:15.1.5
-![](https://i.imgur.com/b5iQUsQ.png)
+
+ ![](https://i.imgur.com/b5iQUsQ.png)
+
 </div>
 
 ## 各部件連線
