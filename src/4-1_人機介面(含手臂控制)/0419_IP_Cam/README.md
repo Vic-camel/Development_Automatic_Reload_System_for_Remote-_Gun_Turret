@@ -47,3 +47,6 @@
 ![](https://i.imgur.com/nxOwQ3n.png)
 
 本實作<a href="https://hackmd.io/P1baFeJpQ3qIABO3oAaHiA?both">像素座標與世界座標轉換策略</a>
+
+# 缺少進度
+* 像素座標與世界座標轉換方程式及程式
