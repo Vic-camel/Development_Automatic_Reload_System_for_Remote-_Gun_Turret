@@ -1,5 +1,6 @@
 # Jetson Nano
 
+![image](https://user-images.githubusercontent.com/79196121/172728531-c276e906-85ff-4257-b0e3-47430f007527.png)
 ![](https://i.imgur.com/P385sbt.gif)
 
 ## 環境架設+使用
