@@ -8,7 +8,16 @@
 * JetsonNano環境架設+功能應用介紹於<a href="https://github.com/dusty-nv/jetson-inference">官方介紹</a>學習
   * 
 * Object detection<a href="https://hackmd.io/NasoNE1uRbar1bACno685w?view">實作開發過程</a>
-  * pre-Trained model SSD-Mobilenet-v1
+  * pre-Trained model: SSD-Mobilenet-v1
+
+## 開發過程
+1. 選用辨識方式 --本實作選用 Object detection
+2. 神經網路模型 -->本處選用 SSD-Mobilenet-v1
+3. 蒐集訓練用樣本素材: 
+注意拍照重點
+物體在照片中的<b>明暗</b>、<b>位置</b>、<b>大小</b>
+4. 匡列物體的形狀
+
 ## 硬體
 * Jetson Nano 2GB開發板
 * Webcam
