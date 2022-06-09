@@ -1,4 +1,5 @@
-# Development_Automatic_Reload_System_for_Remote-_Gun_Turret
+# Development Automatic Reload System for Remote Gun Turret based on Robotic Arm and Visual Recognition
+基於<b>機械手臂</b>與<b>視覺辨識</b>實現適用於遠端遙控槍塔之<b>彈藥自動再裝填系統</b>
 
 # 實作成員
 組員:駱皇安、簡育賢、洪嘉澤、楊詠絜
