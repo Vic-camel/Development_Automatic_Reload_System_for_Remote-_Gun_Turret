@@ -44,7 +44,7 @@
 ![](https://i.imgur.com/QfvRiB3.png)
 
 # 如何實現
-* 各系統實現方式詳見src檔案(source code file)
+* 各系統實現方式詳見<b>src</檔案(source code file)
 * 各系統溝通及連線方式
 透過<b>Hub</b>、<b>乙太網路</b>及<b>Socket</b>連結各系統
 ![](https://i.imgur.com/VuIV4BR.jpg)
